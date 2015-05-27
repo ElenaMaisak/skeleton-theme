@@ -15,7 +15,7 @@ Designing a store for a client? Earn 20% revenue through our <a href="http://vir
 ## Getting started
 
 1. <a href="https://github.com/VirtoCommerce/skeleton-theme/archive/master.zip">Download</a> the latest version
-2. or clone the git repo: <code>git clone https://github.com/Shopify/skeleton-theme.git</code>
+2. or clone the git repo: <code>git clone https://github.com/VirtoCommerce/skeleton-theme.git</code>
 
 ## Basic structure
 
