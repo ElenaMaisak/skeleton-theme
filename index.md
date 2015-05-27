@@ -10,8 +10,6 @@ layout: index
 - Include SVG images to style select elements and cart icon.
 - Commented code to teach you Liquid concepts in practice.
 
-Designing a store for a client? Earn 20% revenue through our <a href="http://virtocommerce.com/partners">Partner program<a/>.
-
 ## Getting started
 
 1. <a href="https://github.com/VirtoCommerce/skeleton-theme/archive/master.zip">Download</a> the latest version
