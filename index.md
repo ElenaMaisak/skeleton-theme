@@ -10,11 +10,11 @@ layout: index
 - Include SVG images to style select elements and cart icon.
 - Commented code to teach you Liquid concepts in practice.
 
-Designing a store for a client? Earn 20% revenue through our <a href="http://www.shopify.com/partners">Partner program<a/>.
+Designing a store for a client? Earn 20% revenue through our <a href="http://virtocommerce.com/partners">Partner program<a/>.
 
 ## Getting started
 
-1. <a href="https://github.com/Shopify/skeleton-theme/archive/master.zip">Download</a> the latest version
+1. <a href="https://github.com/VirtoCommerce/skeleton-theme/archive/master.zip">Download</a> the latest version
 2. or clone the git repo: <code>git clone https://github.com/Shopify/skeleton-theme.git</code>
 
 ## Basic structure
@@ -42,11 +42,8 @@ Designing a store for a client? Earn 20% revenue through our <a href="http://www
 
 ## Additional resources
 
-- <a href="http://meetup.shopify.com/">Free workshops</a>: Sign up for a free Shopify For Designers workshop in a city near you.
-- <a href="http://docs.shopify.com/themes">Theme Documentation</a>: Learn more about Liquid and theme templates.
-- <a href="http://apps.shopify.com/desktop-theme-editor">Desktop Theme Editor</a>: For Mac OS X users, we recommend our free app to sync theme files in development. 
-- Need more help? Ask a question in our <a href="http://ecommerce.shopify.com/c/ecommerce-design"> Design Forums</a>.
+- <a href="http://docs.virtocommerce.com">Theme Documentation</a>: Learn more about Liquid and theme templates.
 
 ## License
 
-Copyright (c) 2013 Shopify. Released under the [MIT-LICENSE](http://opensource.org/licenses/MIT).
+Released under the [MIT-LICENSE](http://opensource.org/licenses/MIT).
